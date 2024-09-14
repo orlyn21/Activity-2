@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    display: flex;
+    padding: 1em;
+    width: auto;
+    background: #fce4fc;
+    background-size: auto;
+    justify-content: center;
+}
+
+#box {
+    margin: 20px;
+    display: flex;
+    padding: 1em;
+    width: 90%;
+    max-width: 100%;
+    background: #f7afc8;
+    box-shadow: 0 4px 15px rgb(209, 3, 117);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+#logo-img {
+    position: absolute;
+    width: 150px;
+    padding-left: 1080px;
+    margin-top: 20px;
+}
+
+#img-chibi {
+    position: absolute;
+    width: 150px;
+    padding-left: 1080px;
+    margin-top: 25px;
+}
+
+#hero-name {
+    margin: 0;
+    font-size: 150px;
+    color: #b92959;
+    font-family: Georgia, serif;
+    padding-left: 150px;
+    position: absolute;
+    top: 150px;
+    letter-spacing: 40px;
+}
+
+#hero-img {
+    position: absolute;
+    width: 380px;
+    top: 60px;
+    padding-left: 550px;
+}
+
+#hero-content {
+    margin: 0;
+    font-size: 20px;
+    color: #302c30;
+    font-family: 'Times New Roman', serif;
+    position: absolute;
+    top: 330px;
+    padding-left: 120px;
+    text-align: justify;
+}
+
+#hero-quote {
+    margin: 0;
+    font-size: 17px;
+    color: #1f0e0e;
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-left: 880px;
+    position: absolute;
+    top: 380px;
+    text-align: justify;
+}
+
+#img2 {
+    width: 55px;
+    padding-left: 120px;
+    position: absolute;
+    margin-top: 135px;
+}
+
+#img3 {
+    width: 70px;
+    padding-left: 450px;
+    position: absolute;
+    margin-top: 480px;
+}
+
+#img4 {
+    width: 70px;
+    padding-left: 885px;
+    position: absolute;
+    margin-top: 155px;
+}
+
+#footer {
+    position: absolute;
+    padding-left: 5px;
+    top: 600px;
+    font-size: 15px;
+    color: black;
+}
